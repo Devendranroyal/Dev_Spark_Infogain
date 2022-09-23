@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Antonio Cangiano
+N;CHARSET=UTF-8:Antonio Cangiano;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;c/o Grace Barker,8200 Warden Avenue\, Markham\, ON\, Ca
+ nada;Markham;ON;L6G 1C7;Canada
+EMAIL:support@cognitiveclass.ai
+ORG;CHARSET=UTF-8:Cognitive Class
+URL:https://cognitiveclass.ai
+END:VCARD
